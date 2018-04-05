@@ -15,3 +15,4 @@ public class ShowByteBits {
             System.out.printf("%d\n", (bv & 0x01));
         }
     }
+
