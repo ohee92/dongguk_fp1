@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ShowByBits {
+public class ShowByteBits {
 
         public static void main(String [] args) {
             Scanner sc = new Scanner(System.in);
